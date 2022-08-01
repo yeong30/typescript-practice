@@ -16,4 +16,4 @@ type Student = { name: string; age: number };
 
 let studentA: Student;
 studentA = { name: "aemy", age: 15 }; //O
-studentA = { name: "aemy", age: "15" }; //X
+// studentA = { name: "aemy", age: "15" }; //X
